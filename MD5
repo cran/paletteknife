@@ -1,0 +1,14 @@
+51ee838af186272bc0f8372ed6469f7c *DESCRIPTION
+1aa25be8c7d13cad588405df01fb5f2f *LICENSE
+d82f1340eb25bedfee82f2a8ae4bf560 *NAMESPACE
+6632ebcb64281c45b2dcc512bd86063a *NEWS.md
+4e4580828ca2101cee1f4ec6a74c2488 *R/autoaxis.R
+e424af8b508821dfbf045732652ab1a9 *R/autopal.R
+56ca3ce3f89a8e1e00c98ed08e993f3b *R/pals.R
+06b375bb367320d5c8dacd262215ccde *README.md
+e624e383b3976fe324119db5dd30c43c *man/autoaxis.Rd
+ecebcea99892fc42e761707d882e7368 *man/autocol.Rd
+2466c970961434d1de0cd174f65db065 *man/autolegend.Rd
+981cdfc43c862c34426c66fdb45ca176 *man/autopal.Rd
+2365f84497a4c02adcc4d6147d783861 *man/get_set.Rd
+c212f08016211651fc9f9708c3599b0c *man/pals_display.Rd
