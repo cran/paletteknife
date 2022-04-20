@@ -1,7 +1,7 @@
 Package: paletteknife
 Title: Create Colour Scales and Legend from Continuous or Categorical
         Vectors
-Version: 0.4.1
+Version: 0.4.2
 Authors@R: 
   person(given = "John",
          family = "Hobbs",
@@ -19,8 +19,8 @@ Encoding: UTF-8
 RoxygenNote: 7.1.1
 Depends: graphics, grDevices
 NeedsCompilation: no
-Packaged: 2021-10-14 12:30:26 UTC; john
+Packaged: 2022-04-20 16:04:28 UTC; john
 Author: John Hobbs [aut, cre]
 Maintainer: John Hobbs <johnxhobbs@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-15 07:40:05 UTC
+Date/Publication: 2022-04-20 16:20:02 UTC
